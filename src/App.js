@@ -15,7 +15,7 @@ function App() {
       </div>
       <div className="mar">
         <Marquee speed={100} autoFill className="mar">
-          <div className="naruto">&nbsp;NARUTO UZUMAKI</div>
+          <div className="naruto">&nbsp;NARUTO UZUMAKI &nbsp;</div>
         </Marquee>
       </div>
       <div className="cird">
