@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&family=Vina+Sans&display=swap');
+
+.App {
+  text-align: center;
+  background-color: #2e2629;
+  overflow: hidden;
+  min-height: 100vh;
+}
+
+.chin {
+  text-align: left;
+  font-size: 50px;
+  padding-left: 17%;
+  top: 25%;
+  color: #ca6420;
+  position: absolute;
+}
+
+.chin2 {
+  text-align: right;
+  font-size: 50px;
+  padding-left: 65%;
+  bottom: 20%;
+  color: #ca6420;
+  position: absolute;
+}
+
+/* Nav bar */
+
+.Nav {
+  text-align: left;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  letter-spacing: normal;
+  padding: 1.5% 5% 5% 5%;
+}
+/* circle */
+.circle {
+  width: 450px;
+  height: 450px;
+  border: 2px solid #753a13;
+  border-radius: 50%;
+  margin: auto;
+}
+.circle2 {
+  width: 370px;
+  height: 370px;
+  border: 1px solid #ac5318;
+  border-radius: 50%;
+  transform: translate(10%, 10%);
+}
+
+/* down circle */
+.cird {
+  width: 150px;
+  height: 150px;
+  border: 2px solid #753a13;
+  border-radius: 50%;
+  margin: auto;
+  position: absolute;
+  right: 12%;
+  bottom: 5%;
+}
+.cird2 {
+  width: 70px;
+  height: 70px;
+  border: 1px solid #ac5318;
+  border-radius: 50%;
+  transform: translate(-50%, 120%);
+}
+div {
+  font-family: 'Nippo', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: 0.05em;
+  padding: none;
+}
+
+/* marquee */
+.mar {
+  position: fixed;
+  top: 35%;
+}
+.naruto {
+  font-size: 15rem;
+}
+
+/* image */
+img {
+  position: absolute;
+  height: 85%;
+  width: 37%;
+  top: 17%;
+  left: 32%;
+  overflow: hidden;
+}
