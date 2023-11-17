@@ -4,7 +4,7 @@
   text-align: center;
   background-color: #2e2629;
   overflow: hidden;
-  min-height: 100vh;
+  min-height: 102vh;
 }
 
 .chin {
@@ -81,6 +81,7 @@ div {
 .mar {
   position: fixed;
   top: 35%;
+  z-index: 0;
 }
 .naruto {
   font-size: 15rem;
@@ -94,4 +95,45 @@ img {
   top: 17%;
   left: 32%;
   overflow: hidden;
+}
+
+/* Paragraph */
+.text1{
+  height: 93.600px;
+  width: 405px;
+  font-family: 'author' sans-serif;
+  font-size: 10px;
+  text-align: left;
+  padding: 0 0 5px 1rem;
+  color: rgb(187, 183, 183);
+  position: absolute;
+  top: 70%;
+  letter-spacing: normal;
+}
+
+.text2{
+  height: 93.600px;
+  width: 405px;
+  font-family: 'author' sans-serif;
+  font-size: 10px;
+  text-align: left;
+  padding: 2rem 0 0 1rem;
+  color: #e14b2c;
+  letter-spacing: normal;
+}
+
+/* box */
+.box{
+  background-color: #e86c43;
+  height: 51px;
+  width: 136px;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 1%;
+  left: 17%;
+}
+.box-text{
+  font-size: 20px;
+  padding: 10% 0 0 23%;
+  position: absolute;
 }
