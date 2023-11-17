@@ -79,9 +79,10 @@ div {
 
 /* marquee */
 .mar {
-  position: fixed;
+  position: absolute;
   top: 35%;
   z-index: 0;
+  width: 1500px;
 }
 .naruto {
   font-size: 15rem;
@@ -97,7 +98,7 @@ img {
   overflow: hidden;
 }
 
-/* Paragraph */
+/* Paraghrap */
 .text1{
   height: 93.600px;
   width: 405px;
