@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Hinata/static/css/main.58e1a0b8.css",
-    "main.js": "/Hinata/static/js/main.b5c0b5e7.js",
+    "main.js": "/Hinata/static/js/main.fbe4ecb3.js",
     "static/js/787.fdd7c26b.chunk.js": "/Hinata/static/js/787.fdd7c26b.chunk.js",
     "static/media/hinata-removebg-preview.png": "/Hinata/static/media/hinata-removebg-preview.f53562ccab1bcafc1311.png",
     "index.html": "/Hinata/index.html",
     "main.58e1a0b8.css.map": "/Hinata/static/css/main.58e1a0b8.css.map",
-    "main.b5c0b5e7.js.map": "/Hinata/static/js/main.b5c0b5e7.js.map",
+    "main.fbe4ecb3.js.map": "/Hinata/static/js/main.fbe4ecb3.js.map",
     "787.fdd7c26b.chunk.js.map": "/Hinata/static/js/787.fdd7c26b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58e1a0b8.css",
-    "static/js/main.b5c0b5e7.js"
+    "static/js/main.fbe4ecb3.js"
   ]
 }
