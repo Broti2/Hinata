@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Hinata/static/css/main.b2d371c8.css",
-    "main.js": "/Hinata/static/js/main.75251088.js",
+    "main.css": "/Hinata/static/css/main.97cf62cd.css",
+    "main.js": "/Hinata/static/js/main.b58073f8.js",
     "static/js/787.fdd7c26b.chunk.js": "/Hinata/static/js/787.fdd7c26b.chunk.js",
     "static/media/hinata-removebg-preview.png": "/Hinata/static/media/hinata-removebg-preview.f53562ccab1bcafc1311.png",
     "index.html": "/Hinata/index.html",
-    "main.b2d371c8.css.map": "/Hinata/static/css/main.b2d371c8.css.map",
-    "main.75251088.js.map": "/Hinata/static/js/main.75251088.js.map",
+    "main.97cf62cd.css.map": "/Hinata/static/css/main.97cf62cd.css.map",
+    "main.b58073f8.js.map": "/Hinata/static/js/main.b58073f8.js.map",
     "787.fdd7c26b.chunk.js.map": "/Hinata/static/js/787.fdd7c26b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2d371c8.css",
-    "static/js/main.75251088.js"
+    "static/css/main.97cf62cd.css",
+    "static/js/main.b58073f8.js"
   ]
 }
